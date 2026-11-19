@@ -1,0 +1,4 @@
+AlfaGen k6 Load Suite v2
+k6=v1.8.2
+xk6=v1.4.14
+grafana/xk6-kafka=v0.1.0
