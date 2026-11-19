@@ -1,3 +1,0 @@
-AlfaGen k6 Load Suite
-Version: v4
-HTTP CUS values are loaded from data/cus.csv

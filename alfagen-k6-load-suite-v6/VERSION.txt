@@ -1,0 +1,5 @@
+AlfaGen k6 Load Suite
+Version: v6
+HTTP scripts: 5
+Kafka producer scripts: 17
+Each Kafka script has its own JSON payload and local parameter generators.
