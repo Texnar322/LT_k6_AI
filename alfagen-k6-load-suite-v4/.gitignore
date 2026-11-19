@@ -1,0 +1,5 @@
+config/.env
+k6
+k6.exe
+k6-windows-amd64.exe
+*.log
